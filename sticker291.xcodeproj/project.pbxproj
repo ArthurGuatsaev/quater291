@@ -40,14 +40,12 @@
 		8495B6402B347EE8002CF1B0 /* sticker291.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sticker291.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8495B6442B347EE8002CF1B0 /* sticker291 StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "sticker291 StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8495B6482B347EE8002CF1B0 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "sticker291 StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
-		8495B6542B35C94F002CF1B0 /* codemagic.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = codemagic.yaml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		8495B6392B347EE8002CF1B0 = {
 			isa = PBXGroup;
 			children = (
-				8495B6542B35C94F002CF1B0 /* codemagic.yaml */,
 				8495B6482B347EE8002CF1B0 /* Stickers.xcstickers */,
 				8495B6412B347EE8002CF1B0 /* Products */,
 			);
