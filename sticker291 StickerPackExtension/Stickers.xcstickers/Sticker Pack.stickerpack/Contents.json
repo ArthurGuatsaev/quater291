@@ -1,9 +1,56 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "balance.png.sticker"
+    },
+    {
+      "filename" : "wtdr.png.sticker"
+    },
+    {
+      "filename" : "mon.png.sticker"
+    },
+    {
+      "filename" : "key.png.sticker"
+    },
+    {
+      "filename" : "ves.png.sticker"
+    },
+    {
+      "filename" : "bag.png.sticker"
+    },
+    {
+      "filename" : "check.png.sticker"
+    },
+    {
+      "filename" : "dollar.png.sticker"
+    },
+    {
+      "filename" : "letter.png.sticker"
+    },
+    {
+      "filename" : "koshel.png.sticker"
+    },
+    {
+      "filename" : "bank.png.sticker"
+    },
+    {
+      "filename" : "money.png.sticker"
+    },
+    {
+      "filename" : "gold.png.sticker"
+    },
+    {
+      "filename" : "monets.png.sticker"
+    },
+    {
+      "filename" : "phone.png.sticker"
+    }
+  ]
 }
